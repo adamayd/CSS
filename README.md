@@ -1,3 +1,6 @@
+## NOTE
+This is a copy of the Lynda.com SASS Essential Training by Ray Villalobos repo.  This is only the completed files.  Please use the original repo from Ray Villalobos/planetoftheweb.
+
 # Sass Essential Training
 This is the repository for my course, Sass Essential Training on Lynda.com.
 
