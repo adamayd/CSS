@@ -1,5 +1,9 @@
 @import "variables";
 @import "normalize";
+@import "mixins";
 @import "base";
+@import "interface";
 
-@import "modules/media.scss";
+@import "modules/backgrounds";
+@import "modules/media";
+@import "modules/tables";
