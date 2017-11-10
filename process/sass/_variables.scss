@@ -1,6 +1,4 @@
-/* This comment shows up only in expanded view */
-/*! This comment shows up even in compressed style */  
-// This comment only shows up in SASS files never in processed CSS
+// Load Fonts
 
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Merriweather|Josefin+Slab|Oswald|Bree+Serif);
 
@@ -19,5 +17,11 @@ $color-backgrounds: $offwhite;
 $color-headlines: $red;
 
 
-$font-main: 'Merriweather', Helvetica, sans-serif;
+$font-main: Merriweather, Helvetica, sans-serif;
 $font-highlight: 'Bree Serif', Helvetica, sans-serif;
+
+//breakpoints
+
+$small:		450px;
+$medium:	760px;
+$large:		1200px;
